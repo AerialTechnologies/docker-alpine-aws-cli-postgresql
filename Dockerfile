@@ -1,4 +1,3 @@
-# Alpine 3.8 is current latest
 FROM aerialtech/docker-alpine-aws-cli
 
 RUN apk --update --no-cache add postgresql \
